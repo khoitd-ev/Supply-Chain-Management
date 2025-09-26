@@ -6,7 +6,7 @@
 
 
 ## 📖 Overview
-This project was developed as part of the **Supply Chain Management (EC214.P21)** course at UIT (VNUHCMC).  
+This project was developed as part of the **Supply Chain Management** course at UIT (VNUHCMC).  
 It focuses on analyzing, modeling, and optimizing supply chain processes using BPMN and project management techniques.  
 
 
